@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router";
 import { lazy, Suspense } from "react";
 
 export const PATHS = {
-  INDEX: "/",
+  INDEX: "/index",
   HOME: "/home",
   VERIFY: "/verify",
   SEND_INFO: "/send-info",
